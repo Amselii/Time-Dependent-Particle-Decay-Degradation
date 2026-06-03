@@ -25,7 +25,7 @@ PROGRAM Main
     I = [3.4e-11] !erg
     E_bar = 0.6*I !erg
     
-    !Defininf the energy array
+    !Defining the energy array
     E_min = 1.6e-13 !erg
     E_max = 1.6e-12*1e6 !erg
     dE = 1.6e-12*10.0 !erg
